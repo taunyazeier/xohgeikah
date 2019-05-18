@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecuyashi.wixther.de/sitemap.xml
